@@ -8,3 +8,5 @@ versions:
   enterprise-server: '>=2.22'
 ---
 
+/admin
+
